@@ -3,4 +3,8 @@ var person = {
     age: 33
 };
 
+var daniel = 'Imię';
+
+console.log(daniel);
+
 console.log(person.name);
